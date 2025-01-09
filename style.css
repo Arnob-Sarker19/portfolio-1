@@ -17,7 +17,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0 50px;
+    margin: 0 150px;
 }
   .color1{
     color: darkslategrey;
@@ -251,7 +251,7 @@ bottom: 2739px;
   .yo{
     margin: 70px;
   }
-  
+
   .connect-section {
     background-color: #fff7f0;
     padding: 50px 20px;
