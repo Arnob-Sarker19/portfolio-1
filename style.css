@@ -142,7 +142,7 @@ bottom: 2739px;
   .cards {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
     flex-wrap: wrap;
   }
   
